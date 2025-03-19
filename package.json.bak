@@ -1,6 +1,5 @@
 {
-    "homepage": "https://arpit0406.github.io/paradise-nursery-shopping-cart-app",
-	"name": "shoppingcart",
+    "name": "shoppingcart",
     "private": true,
     "version": "0.0.0",
     "type": "module",
